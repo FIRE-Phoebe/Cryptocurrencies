@@ -8,7 +8,7 @@ Cryptocurrencies Analysis project uses Unsupervised Machine Learning technique t
   - Convert variables for text features
   - Scaling features from dataset
 - Reducing Data Dimensions Using PCA
-  - Reduce dimension to three principla comonents
+  - Reduce dimension to three principla components
   - Store PCA data
  
     <img src='Resources/images/pca_3components.PNG' width=300, height=400>
@@ -32,6 +32,6 @@ Cryptocurrencies Analysis project uses Unsupervised Machine Learning technique t
     <img src='Resources/images/crypto_supply_mined.PNG' width=800 height=300>
 
 ## Summary
-
+According to the results, we have successfully building Unsupervised Machine Learning models to predict and visulize our findings. We use Principal Component Analysis model to speed up machine learning algorithm by extracting features. Elbow Curve helps us to find optimize K-Means to better visualize our 2D and 3D clusters. In the future, we might consider to find a patterns in grouping data.   
 
 
