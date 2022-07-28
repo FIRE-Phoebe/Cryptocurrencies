@@ -34,4 +34,7 @@ Cryptocurrencies Analysis project uses Unsupervised Machine Learning technique t
 ## Summary
 According to the results, we have successfully building Unsupervised Machine Learning models to predict and visulize our findings. We use Principal Component Analysis model to speed up machine learning algorithm by extracting features. Elbow Curve helps us to find optimize K-Means to better visualize our 2D and 3D clusters. In the future, we consider to find patterns from our grouping data.   
 
-_____________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________
+
+- Project Contributor: Phoebe J. Miao
+- 
