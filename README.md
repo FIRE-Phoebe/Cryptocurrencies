@@ -37,4 +37,4 @@ According to the results, we have successfully building Unsupervised Machine Lea
 __________________________________________________________________________________________________________________________________________________________________
 
 - Project Contributor: Phoebe J. Miao
-- 
+- Email: phoebem2021data@gmail.com
