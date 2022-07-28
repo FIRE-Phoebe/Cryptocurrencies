@@ -9,7 +9,7 @@ Cryptocurrencies Analysis project uses Unsupervised Machine Learning technique t
   - Scaling features from dataset
 - Reducing Data Dimensions Using PCA
   - Reduce dimension to three principla components
-  - Store PCA data
+  - Store PCA data (total 532rows and 3columns)
  
     <img src='Resources/images/pca_3components.PNG' width=300, height=400>
     
