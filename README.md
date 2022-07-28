@@ -14,7 +14,7 @@ Cryptocurrencies Analysis project uses Unsupervised Machine Learning technique t
     <img src='Resources/images/pca_3components.PNG' width=300, height=400>
     
 - Clustering Crytocurrencies Using K-Means
-  - Create Elbow Curve to define the best K. As following curve shows, we determine the K=4.
+  - Create Elbow Curve to define the best K. As the following curve shows, we determine the best K=4.
     
     <img src='Resources/images/elbow_curve.PNG' width=800 height=300>
     
