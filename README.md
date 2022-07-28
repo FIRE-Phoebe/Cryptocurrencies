@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Cryptocurrencies Analysis
 ## Overview of Cryptocurrencies
 Cryptocurrencies Analysis project uses Unsupervised Machine Learning technique to analyze cryptocurrencies dataset. Through unsupervised machine learning, we use K-means model, Elbow Curve, and principal component analysis (PCA) to process dataset in order to speed up the results visualization. Our goal is to reduce data dimensions, plot clustering crytocurrencies, and create a report to predict new investment in the trading market.
 
