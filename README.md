@@ -21,14 +21,14 @@ Cryptocurrencies Analysis project uses Unsupervised Machine Learning technique t
   - Create K-Means model and make predictions
     
 - Visualizing Results
-  - Plot 3D-scatter with PCA data and clusters
+  - Plot 3D-scatter with PCA data and clusters:
 
   <img src='Resources/images/3d_clusters.PNG' width=600 height=500>
   
-  - Table shows tradable cryptocurrencies
+  - Table shows tradable cryptocurrencies:
     <img src='Resources/images/tradable_currencies.PNG' width=800 height=300>
     
-  - Plot scatter shows the clusters for Coin Mined and Supply
+  - Plot scatter shows the clusters for Coin Mined and Supply:
     <img src='Resources/images/crypto_supply_mined.PNG' width=800 height=300>
 
 ## Summary
